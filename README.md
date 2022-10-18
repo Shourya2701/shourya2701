@@ -1,8 +1,10 @@
-<h3 align="center">I'm Shourya Pratap Bhadauriya</h3>
+<h1 align="center">Hi there 👋 ,</h1>
+<br>
+<h3 align="left">I'm Shourya Pratap Bhadauriya</h3>
 
-<p align="left"> <a href="https://twitter.com/shourya2701" target="blank"><img src="https://img.shields.io/twitter/follow/shourya2701?logo=twitter&style=for-the-badge" alt="shourya2701" /></a> </p>
+<h2>About Me</h2>
 
-- 🔭Exploring new technologies **and developing software solutions to our worlds tech problems.**
+- 🔭 Exploring new technologies **and developing software solutions to our worlds tech problems.**
 
 - 🌱 I’m currently learning **Tailwind CSS.**
 
