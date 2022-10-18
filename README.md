@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋 ,</h1>
+<h1 align="left">Hi there 👋</h1>
 <br>
-<h3 align="left">I'm Shourya Pratap Bhadauriya</h3>
+<h2 align="left">I'm Shourya Pratap Bhadauriya</h2>
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 
 - 🔭 Exploring new technologies **and developing software solutions to our worlds tech problems.**
 
