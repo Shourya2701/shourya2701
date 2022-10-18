@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<br>
+
 <h2 align="left">I'm Shourya Pratap Bhadauriya</h2>
 
 <h1>About Me</h1>
