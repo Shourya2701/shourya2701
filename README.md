@@ -82,8 +82,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shourya27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Shourya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya27&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shourya27&custom_title=Shourya's%20Github%20Stats&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Shourya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya27&custom_title=Shourya's%20Most%20Used%20Languages&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -91,7 +91,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <img alt="Shourya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shourya27&custom_title=shourya's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+   <img alt="Shourya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shourya27&custom_title=Shourya's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br/>
 </details>
 
