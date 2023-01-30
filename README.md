@@ -11,7 +11,7 @@ Hi, I'm Shourya Pratap Bhadauriya!
 </p>
 <hr/>
 <samp>
-I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented individual:man_technologist: with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹, honed communication skills👐, strong organizational skills👮, and meticulous attention🕵️‍♀️ to detail.
+I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented individual:man_technologist: with decent moral Values and Ethicates🙇‍ along with a high-energy level🤹, honed communication skills👐, strong organizational skills👮, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
 <h1>About Me</h1>
