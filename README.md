@@ -10,11 +10,12 @@ Hi, I'm Shourya Pratap Bhadauriya!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
+
+<h1>About Me</h1>
 <samp>
 I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented individual:man_technologist: with decent moral Values and Ethicates🙇‍ along with a high-energy level🤹, honed communication skills👐, strong organizational skills👮, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
-<h1>About Me</h1>
 
 - 🔭 Exploring new technologies **and developing software solutions to our worlds tech problems.**
 
