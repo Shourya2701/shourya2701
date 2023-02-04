@@ -105,7 +105,7 @@ I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented in
 ## Let's Connect
 
 <p align="center" color="white">
-  <a href="https://linkedin.com/in/shourya pratap bhadauriya" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="shourya2701" /></a>
+  <a href="https://www.linkedin.com/in/shourya-pratap-bhadauriya/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="shourya2701" /></a>
   <a href="https://twitter.com/shourya2701" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter-squared.png" alt="shourya pratap bhadauriya"/></a>
   <a href="https://instagram.com/shourya.2701" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="shourya.2701" /></a>
 
