@@ -12,18 +12,18 @@ Hi, I'm Shourya Pratap Bhadauriya!
 <hr/>
 
 <h1>About Me</h1>
-<samp>
-I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented individual:man_technologist: with decent moral Values and Ethics🙇‍ along with a high-energy level🤹, honed communication skills👐, strong organizational skills👮, and meticulous attention🕵️‍♀️ to detail.
-</samp>
+<p>
+I am a creative, punctual, and dedicated professional 👨‍💻 who is goal-oriented and guided by strong moral values and ethics. I bring high energy, excellent communication skills, strong organizational abilities, and meticulous attention to detail to everything I do.
+</p>
 
 
-- 🔭 Exploring new technologies **and developing software solutions to our worlds tech problems.**
+- 🔭 Exploring emerging technologies and building innovative software solutions to real-world tech challenges.
 
-- 🌱 I’m currently learning **Tailwind CSS.**
+- 🌱 Currently diving into LangChain and FastAPI to build intelligent, ML-powered applications.
 
-- 👯 I’m looking to collaborate on **projects related to ML and Web Dev.**
+- 👯 Open to collaborating on Machine Learning and Web Development projects.
 
-- 💬 Ask me about **python, react, electron and javascript**
+- 💬 Feel free to ask me about Python, React, Electron, or JavaScript.
 
 - 📫 How to reach me **ssshouryapratap@gmail.com**
 
@@ -55,6 +55,7 @@ I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented in
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron%20-028399.svg?logo=Electron&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-092E20.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-5A5A5A.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-092E20.svg?logo=fastapi&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -62,6 +63,7 @@ I am a creative🎡, time punctual:man_student:, dedicated🎯, goal-oriented in
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-orange.svg?logo=amazonaws&logoColor=white"></a>
